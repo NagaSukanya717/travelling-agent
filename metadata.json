@@ -1,0 +1,6 @@
+{
+  "name": "VoyageIQ - AI Travelling Agent",
+  "description": "Smart travel concierge powered by n8n automation. Plan bespoke itineraries, estimate budgets, and dispatch AI agent travel briefs directly to your inbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
